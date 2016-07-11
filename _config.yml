@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://samsmith47.github.io
+title: TyreCare
+email: sam.smith47a@gmail.com
+author: Sam Smith
+description: All About Car Tyres, Tyre Care And Tips
+paginate: 5
+google_analytics: 
